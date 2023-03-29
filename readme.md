@@ -1,4 +1,10 @@
-# Three.js Journey
+# Three.js Journey - 02 Webpack setup
+
+
+## About
+
+Webpack setup to handle with Three.js projects.
+
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
